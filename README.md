@@ -3,8 +3,17 @@
 
 ## Sobre o Projeto 📊
 
+Projeto do módulo 5 individual para o curso da Resilia
+Foi gerando um gráfico pela parceira HRBP sobre os motivos de saída dos funcionários e seus impactos
+Em suas decisões e qual os principais motivos de saída dos funcionários, nos ajudamos e melhora os gráficos
+Para ter uma melhor compreensão ao visualizarmos os dados obtidos na pesquisa, com isso seria melhor a visualização
+
 
 ## Funcionalidade  ⚙️
+
+Analisar dados obtidos da empresa por meio de entrevista e gera insights valiosos para tomada de decisão,
+Para melhora sua parceria com os funcionários e saber o motivo da saída deles da empresa e com isso reter mais funcionários
+Para o melhor desempenho da empresa
 
 
 ## Ferramentas Utilizadas 🛠️
@@ -18,7 +27,8 @@
 
 ## Bibliotecas 📚
 ```bash
-
+import cv2
+from google.colab.patches import cv2_imshow
 ```
 
 ## Como usar 🔌
