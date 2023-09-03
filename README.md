@@ -3,10 +3,16 @@
 
 ## Sobre o Projeto 📊
 
-Projeto do módulo 5 individual para o curso da Resilia
+Projeto do módulo 5 individual, para o curso da Resilia
 Foi gerando um gráfico pela parceira HRBP sobre os motivos de saída dos funcionários e seus impactos
 Em suas decisões e qual os principais motivos de saída dos funcionários, nos ajudamos e melhora os gráficos
 Para ter uma melhor compreensão ao visualizarmos os dados obtidos na pesquisa, com isso seria melhor a visualização
+e também foi feito um relatório respondendo algumas perguntas para melhora nosso entendimento da análise
+ao ver o gráfico e também uma explicação sobre os dados mostrados no gráfico
+é muito importante monitoramos os funcionários para podermos sempre melhorar suas condições de vida e políticas da empresa
+para não perdemos bom funcionários sendo que a maioria vai para concorrentes e com isso sua grande experiência
+nos negócios, com isso a empresa pode perder muito e as desmotivações dos antigos funcionários podem afetar os novos funcionários
+que também pode acabar mudando de empresa logo no início por saber que não a vera oportunidades na empresa
 
 
 ## Funcionalidade  ⚙️
