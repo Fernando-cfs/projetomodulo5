@@ -40,8 +40,12 @@ from google.colab.patches import cv2_imshow
 ## Como usar 🔌
 1. Baixar o repositório
 2. Abri a pasta usando seu colab
-3. Clicar em ambiente de execução
-4. Executar tudo
+3. Clicar para abri o arquivo individualmodulo5.ipynb
+4. Abri a pasta print5 no upload do colab
+5. selecionar todos os prints e fazer upload
+6. Após carregar todos os prints
+7. Clicar em ambiente de execução
+8. Executar tudo
 
 ![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
